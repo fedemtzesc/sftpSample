@@ -1,5 +1,5 @@
 /*
- * Autor Federico Martinez E.
+ * Autor Federico Martinez Escamilla.
  */
 package com.fdxsoft.ftp;
 
